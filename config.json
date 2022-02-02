@@ -1,0 +1,41 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Bamboo Burnishes",
+	"namespace": "bridge",
+	"authors": [
+		"Chikorita-Lover"
+	],
+	"targetVersion": "1.18.10",
+	"description": "The files for the Bamboo Burnishes features, created by @ChikoritaL on Twitter!",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": false,
+		"additionalModdingCapabilities": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": false,
+		"theWildUpdate": false,
+		"educationEdition": false
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Bamboo Burnishes"
+				}
+			]
+		]
+	}
+}

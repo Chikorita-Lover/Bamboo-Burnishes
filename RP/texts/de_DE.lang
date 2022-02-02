@@ -1,0 +1,6 @@
+pack.name=Ressourcenpaket für Bambus-Polituren
+pack.description=Die texturen der Bambus-Polituren wurden von @ChikoritaL auf Twitter erstellt!
+
+tile.bridge:bamboo_lantern.name=Bambuslaterne
+tile.bridge:bamboo_pillar.name=Bambussäule
+tile.bridge:bamboo_planks.name=Bambusbretter

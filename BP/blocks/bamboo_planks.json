@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:bamboo_planks"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"category": "construction",
+				"group": "itemGroup.name.planks"
+			},
+			"minecraft:destroy_time": 2,
+			"minecraft:explosion_resistance": 3,
+			"minecraft:flammable": {
+				"burn_odds": 20,
+				"flame_odds": 5
+			},
+			"minecraft:loot": "loot_tables/blocks/bamboo_planks.json",
+			"minecraft:map_color": "#F7E9A3",
+			"tag:wood": {}
+		}
+	}
+}

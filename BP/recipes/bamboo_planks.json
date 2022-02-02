@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:bamboo_planks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XX",
+			"XX"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:bamboo"
+			}
+		},
+		"result": {
+			"item": "bridge:bamboo_planks"
+		}
+	}
+}

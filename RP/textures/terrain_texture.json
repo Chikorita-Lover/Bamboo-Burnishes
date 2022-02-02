@@ -1,0 +1,20 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Bamboo Add-On",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"bamboo_lantern_side": {
+			"textures": "textures/blocks/bamboo_lantern"
+		},
+		"bamboo_pillar_side": {
+			"textures": "textures/blocks/bamboo_pillar"
+		},
+		"bamboo_pillar_top": {
+			"textures": "textures/blocks/bamboo_pillar_top"
+		},
+		"bamboo_planks": {
+			"textures": "textures/blocks/bamboo_planks"
+		}
+	}
+}

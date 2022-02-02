@@ -1,0 +1,6 @@
+pack.name=竹はリソースパックを磨きます
+pack.description=竹の質感がツイッターで@ChikoritaLによって作成された特徴を磨きます！
+
+tile.bridge:bamboo_lantern.name=竹灯籠
+tile.bridge:bamboo_pillar.name=竹の柱
+tile.bridge:bamboo_planks.name=竹板

@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Chikorita-Lover"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.3",
+				"2.2.4"
+			],
+			"dash": [
+				"0.7.0",
+				"0.7.1"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			18,
+			0
+		],
+		"uuid": "f61d169b-0ee2-4008-ab8f-e240e0827473",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "0de7eae7-a11b-4717-9d1f-8aba9d83462f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

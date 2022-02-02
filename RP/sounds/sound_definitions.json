@@ -1,0 +1,112 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"block.bamboo_pillar.break": {
+			"category": "block",
+			"sounds": [
+				{
+					"name": "sounds/block/bamboo_pillar/place1",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place2",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place3",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place4",
+					"volume": 0.80
+				}
+			]
+		},
+		"block.bamboo_pillar.fall": {
+			"category": "block",
+			"sounds": [
+				{
+					"name": "sounds/block/bamboo_pillar/step1",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step2",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step3",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step4",
+					"volume": 1
+				}
+			]
+		},
+		"block.bamboo_pillar.hit": {
+			"category": "block",
+			"sounds": [
+				{
+					"name": "sounds/block/bamboo_pillar/step1",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step2",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step3",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step4",
+					"volume": 1
+				}
+			]
+		},
+		"block.bamboo_pillar.place": {
+			"category": "block",
+			"sounds": [
+				{
+					"name": "sounds/block/bamboo_pillar/place1",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place2",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place3",
+					"volume": 0.80
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/place4",
+					"volume": 0.80
+				}
+			]
+		},
+		"block.bamboo_pillar.step": {
+			"category": "block",
+			"sounds": [
+				{
+					"name": "sounds/block/bamboo_pillar/step1",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step2",
+					"pitch": 0.70,
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step3",
+					"volume": 1
+				},
+				{
+					"name": "sounds/block/bamboo_pillar/step4",
+					"pitch": 0.70,
+					"volume": 1
+				}
+			]
+		}
+	}
+}

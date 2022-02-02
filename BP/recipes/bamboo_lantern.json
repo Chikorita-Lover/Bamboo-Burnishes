@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:bamboo_lantern"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" # ",
+			"#X#",
+			" # "
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:bamboo"
+			},
+			"X": {
+				"item": "minecraft:torch"
+			}
+		},
+		"result": {
+			"item": "bridge:bamboo_lantern"
+		}
+	}
+}

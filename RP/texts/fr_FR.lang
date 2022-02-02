@@ -1,0 +1,6 @@
+pack.name=Pack ressources Brunis Bambou
+pack.description=Les textures des fonctions Brunis Bambou, créées par @ChikoritaL sur Twitter !
+
+tile.bridge:bamboo_lantern.name=Lanterne en bambou
+tile.bridge:bamboo_pillar.name=Pilier en bambou
+tile.bridge:bamboo_planks.name=Planches de bambou

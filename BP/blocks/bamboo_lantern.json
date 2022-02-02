@@ -1,0 +1,84 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:bamboo_lantern"
+		},
+		"components": {
+			"minecraft:block_light_absorption": 0.0,
+			"minecraft:block_light_emission": 1.0,
+			"minecraft:breakonpush": true,
+			"minecraft:breathability": "air",
+			"minecraft:creative_category": {
+				"category": "items",
+				"group": "items"
+			},
+			"minecraft:destroy_time": 2,
+			"minecraft:entity_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					16,
+					8
+				]
+			},
+			"minecraft:explosion_resistance": 3,
+			"minecraft:geometry": "geometry.bamboo_lantern",
+			"minecraft:loot": "loot_tables/blocks/bamboo_lantern.json",
+			"minecraft:map_color": "#F7E9A3",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "bamboo_lantern_side",
+					"render_method": "alpha_test",
+					"face_dimming": false
+				},
+				"down": {
+					"texture": "bamboo_pillar_top",
+					"render_method": "alpha_test",
+					"face_dimming": false
+				},
+				"up": {
+					"texture": "bamboo_pillar_top",
+					"render_method": "alpha_test",
+					"face_dimming": false
+				}
+			},
+			"minecraft:on_player_placing": {
+				"event": "on_player_placing",
+				"target": "self"
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					16,
+					8
+				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"down",
+							"up"
+						]
+					}
+				]
+			},
+			"tag:wood": {}
+		},
+		"events": {
+			"on_player_placing": {
+				"swing": {}
+			}
+		}
+	}
+}
