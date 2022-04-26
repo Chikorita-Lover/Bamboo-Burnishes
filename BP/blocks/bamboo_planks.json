@@ -9,7 +9,7 @@
 				"category": "construction",
 				"group": "itemGroup.name.planks"
 			},
-			"minecraft:destroy_time": 2,
+			"minecraft:destroy_time": 1.5,
 			"minecraft:explosion_resistance": 3,
 			"minecraft:flammable": {
 				"burn_odds": 20,

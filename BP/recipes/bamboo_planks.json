@@ -17,7 +17,8 @@
 			}
 		},
 		"result": {
-			"item": "bridge:bamboo_planks"
+			"item": "bridge:bamboo_planks",
+			"count": 2
 		}
 	}
 }

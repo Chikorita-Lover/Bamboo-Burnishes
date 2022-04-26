@@ -6,12 +6,10 @@
 		],
 		"generated_with": {
 			"bridge": [
-				"2.2.3",
-				"2.2.4"
+				"2.2.8"
 			],
 			"dash": [
-				"0.7.0",
-				"0.7.1"
+				"0.8.11"
 			]
 		},
 		"url": "https://github.com/Chikorita-Lover/Bamboo-Burnishes"
@@ -28,7 +26,7 @@
 		"version": [
 			1,
 			0,
-			0
+			1
 		]
 	},
 	"modules": [
@@ -38,7 +36,7 @@
 			"version": [
 				1,
 				0,
-				0
+				1
 			]
 		}
 	],
@@ -48,7 +46,7 @@
 			"version": [
 				1,
 				0,
-				0
+				1
 			]
 		}
 	]
